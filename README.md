@@ -1,4 +1,4 @@
-# ShiftGen – Auto Scheduling MVP (React + Tailwind)
+# Schedulify – Auto Scheduling MVP (React + Tailwind)
 A lightweight scheduling tool that automatically distributes total crew hours, generates fair shift rotations, learns and adapts to staff preferences and culure patterns over time.
 ## Features
 - Random or manual hour assignment (global random distribution)
